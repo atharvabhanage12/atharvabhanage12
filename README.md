@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharvabhanag12](https://github.com/atharvabhanage12)
 
-- 📫 How to reach me **atharvabhanage1.com**
+- 📫 How to reach me **atharvabhanage1@gmail.com**
 
 - 📱 Android App Devloper
  
